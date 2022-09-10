@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <game>
-	<title>Game Name</title>
+	<title>Ayyylando</title>
 	<release-date>1 May, 2012</release-date>
 	<website>http://www.gamesite.com/</website>
 	<press-can-request-copy>TRUE</press-can-request-copy>
@@ -59,12 +59,12 @@
 	<trailers>
 		<trailer>
 			<name>Trailer</name>
-			<youtube>yqWX86uT5jM</youtube>
+			<youtube>G1IbRujko-A</youtube>
 			<vimeo>110527266</vimeo>
 		</trailer>
 		<trailer>
 			<name>Gameplay Video</name>
-			<youtube>yqWX86uT5jM</youtube>
+			<youtube>G1IbRujko-A</youtube>
 			<vimeo>110527266</vimeo>
 		</trailer>
 	</trailers>
